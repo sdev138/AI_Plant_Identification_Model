@@ -1,2 +1,2 @@
 # AI Plant Identification Model
-Test Model for Sprint 2
+Artifical Intelligence Model classifying and identifying health defects
